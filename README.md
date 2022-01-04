@@ -1,2 +1,5 @@
 # Curso_Git_GitHub
- Aqui tem um pequeno código em HTML criado para as aulas práticas do curso e algumas anotações da parte teórica
+Curso feito através do **Curso em Vídeo** ministrado pelo professor **Gustavo Guanabara**
+---
+
+*_O arquivo Index.html que contem no repositório é um arquivo básico, contendo um somente um paragráfo._*
